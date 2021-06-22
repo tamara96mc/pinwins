@@ -1,0 +1,12 @@
+{
+  "name": "pruebaUno",
+  "displayName": "pruebaUno",
+  "expo": {
+    "name": "pruebaUno",
+    "slug": "pruebaUno",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
